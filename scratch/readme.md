@@ -8,4 +8,5 @@ Download/check for [scratch 2](http://uploads.scratch.mit.edu/scratch2download/)
 5. Type “node TelloNode.js”.
 # Programing/Extras
 1. Go to more blocks in scratch to program the drone.
-2. If you want to see video use the video block and  Xvg media player and set url to `udp:0.0.0.0:11111`
+2. If you want to see video use the video block to start the stream 
+3. Use [Xvg media player]( https://chrome.google.com/webstore/detail/vxg-media-player/hncknjnnbahamgpjoafdebabmoamcnni/related) and set url to `udp:0.0.0.0:11111`
