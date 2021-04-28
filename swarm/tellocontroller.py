@@ -1,6 +1,3 @@
-# This example script demonstrates how to use Python to fly Tello in a box mission
-# This script is part of our course on Tello drone programming
-# https://learn.droneblocks.io/p/tello-drone-programming-with-python/
 
 # Import the necessary modules
 import socket
