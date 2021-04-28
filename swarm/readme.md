@@ -2,7 +2,7 @@
 Make or find a wifi network that you know the password to a mobile hotspot works great for this.
 
 ## Put in ap mode
-1. Connect to the drones wifi and use packet sender (https://packetsender.com/download#show) to send command "ap “wifi name” “wifi password”" to address 192.168.10.1 port 8889 it should say “OK,drone will reboot in 3s”
+1. Connect to the drones wifi and use [Packet Sender](https://packetsender.com/download#show) to send command "ap “wifi name” “wifi password”" to address 192.168.10.1 port 8889 it should say “OK,drone will reboot in 3s”
 2. Repeat with all drones 
 
 ## connect to tellos
@@ -13,4 +13,4 @@ Make or find a wifi network that you know the password to a mobile hotspot works
 
 # edit and run commands
 1. Edit telloswarmcontroller.py to connect to the tellos and send the commands you want
-2. Use the offical tello doc (https://dl-cdn.ryzerobotics.com/downloads/Tello/Tello%20SDK%202.0%20User%20Guide.pdf) to see available commands.
+2. Use the [offical tello doc](https://dl-cdn.ryzerobotics.com/downloads/Tello/Tello%20SDK%202.0%20User%20Guide.pdf) to see available commands.
