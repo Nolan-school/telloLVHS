@@ -12,5 +12,5 @@ Make or find a wifi network that you know the password to a mobile hotspot works
 4. Send `sn?` to figure out what tello got which ip
 
 # Edit and Run Commands
-1. Edit telloswarmcontroller.py to connect to the tellos and send the commands you want
+1. Edit tellocontroller.py to connect to the tellos and send the commands you want
 2. Use the [offical tello doc](https://dl-cdn.ryzerobotics.com/downloads/Tello/Tello%20SDK%202.0%20User%20Guide.pdf) to see available commands.
