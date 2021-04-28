@@ -1,5 +1,5 @@
 # Prerequisites
-Download/check for scratch 2, node.js, and the 2 files in this folder. 
+Download/check for [scratch 2](http://uploads.scratch.mit.edu/scratch2download/), [node.js](https://nodejs.org/en/download/), and the 2 files in this folder. 
 # Starting The Connection
 1. Open scratch.
 2. Hold shift and click file then click “import experimental HTTP extension” then add TelloExtension.s2e.
